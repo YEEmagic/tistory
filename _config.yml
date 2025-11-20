@@ -2,7 +2,7 @@ title:              YEEmagic's Blog
 email:              sehyun5698@gmail.com
 description:        Tech blog
 author:             YEEmagic
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            "/tistory"
 url:                "https://yeemagic.github.io/tistory/"
 
 # Social Profiles
