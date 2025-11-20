@@ -4,7 +4,8 @@ description:        Tech blog
 author:             YEEmagic
 baseurl:            "/tistory"
 url:                "https://yeemagic.github.io"
-timezone:           Asia/Seoul
+# timezone:           Asia/Seoul <- 소용없음
+future:             true
 
 # Social Profiles
 twitter_username:   
